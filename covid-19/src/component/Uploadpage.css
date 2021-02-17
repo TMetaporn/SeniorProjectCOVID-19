@@ -1,0 +1,63 @@
+.Box{
+    text-align: center;
+    background-color: #008E9B;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+.header2{
+  line-height: 60pt;
+  color: #ffffff;
+  }
+
+.Info{
+  line-height: 50pt;
+  padding: 30pt;
+  font-size: 20pt;
+  display: flex;
+  flex-direction: column;
+}
+.InfoBox{
+  /* background-color: #026068; */
+  border-radius: 15px;
+  color: #026068;
+  background-color: #a4c5c6;
+}
+.button{
+  color: #ffffff;
+  padding-top: 5pt;
+  padding-bottom: 10pt;
+}
+
+.UploadImg{
+  width: 20px;
+  height: 20px;
+}
+
+.Describe{
+  line-height: 80pt;
+  color: #FF0707;
+  padding: 30pt;
+  font-size: 16pt;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-us2{
+  padding-top: 25pt;
+  font-size: 10pt;
+  line-height: 15pt;
+  text-align: left;
+  width: 350pt;
+  height: 50pt;
+}
+.Icon-distributed2{
+  color: #ffffff;
+  font-size: 6pt;
+  line-height: 5pt;
+  padding-top: 10pt;
+}

@@ -1,0 +1,46 @@
+.bg-box{
+    text-align: center;
+    background-color: #008E9B;
+    color: #ffffff;
+    min-height: 100vh;
+}
+.title-box{
+    display: flex;           
+    flex-direction: column;  
+    /* justify-content: center; */
+    align-items: center;   
+}
+.Title{
+    justify-content: center;
+    margin-top: 50px;
+}
+.Input-Box{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    height: 250pt;
+    background-color:whitesmoke;
+    justify-content: center;
+    align-items: center;  
+    padding-bottom: 20pt;
+    border-radius: 15px; 
+}
+.preview{
+    size: 20px;  
+    margin-top: 20px;
+}
+.Preview-pics{
+    font-size: 10pt;
+    /* padding-bottom: 10px; */
+}
+.button-box{
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;
+    margin-top: 50px;
+}
+/* .button{
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;
+} */

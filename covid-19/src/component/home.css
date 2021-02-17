@@ -1,0 +1,67 @@
+.App-home {
+    text-align: center;
+    background-color: #008E9B;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .header-home{
+    line-height: 80pt;
+  }
+  
+  .Des-Box{
+  color: black;
+  text-align: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 120pt;
+  width: 320pt;
+  }
+  
+  .Information{
+  display: flex;
+  flex-direction: row;
+  }
+  
+  .Information .Pro-Info{
+  line-height: 0pt;
+  font-size: 18pt;
+  }
+  
+  .Information .Xray-image{
+    padding-right: 20pt;
+    width: 150pt;
+    height: 150pt;
+  }
+  
+  .Describe-text{
+  padding: 30pt;
+  font-size: 14pt;
+  }
+  
+  .contact-us{
+    padding-top: 20pt;
+    font-size: 10pt;
+    line-height: 15pt;
+    text-align: left;
+    width: 350pt;
+    height: 50pt;
+  }
+  
+  .Icon-distributed{
+    color: #ffffff;
+    font-size: 6pt;
+    line-height: 10pt;
+    padding-top: 10pt;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  

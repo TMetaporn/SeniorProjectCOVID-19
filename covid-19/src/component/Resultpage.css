@@ -1,0 +1,61 @@
+.body{
+    text-align: center;
+    background-color: #008E9B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.header-result{
+    color: #ffffff;
+    margin: 50px;
+}
+.report-box{
+    width: 500px;
+    height: 250px;
+    /* background-color: #ffffff; */
+    background-color: #a4c5c6;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.result-pics{
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+    display: flex;
+}
+.result-report{
+    color:black;
+    display: flex;
+    margin-top: 75px;
+    margin-left: 75px;
+    font-size: 18pt;
+}
+.result-download-button{
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;
+    margin-top: 50px;
+}
+.button{
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;
+}
+.download-des{
+    color: #ffffff;
+    font-size: 16pt;
+    margin-top: 20px;
+}
+.contact-res{
+    padding-top: 20pt;
+    font-size: 10pt;
+    line-height: 15pt;
+    text-align: left;
+    width: 350pt;
+    height: 50pt;
+    color: #ffffff;
+  }
